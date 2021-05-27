@@ -1,4 +1,5 @@
 ABOUT(first project):
+
 Just a simple discord bot who will tell you jokes,play ping pong🏓 with you 
 and will do a couple of cool things.
 
