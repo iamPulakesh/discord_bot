@@ -13,7 +13,6 @@ npm i dotenv
 2.create a .env file in the root directory
 
 3.environment variable(inside .env file)
-
 ```botToken = Your bot token```
 
 4.```npm run start``` or ```npm run dev``` to start the bot.
