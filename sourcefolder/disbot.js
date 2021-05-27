@@ -45,7 +45,7 @@ client.on('message', (message) => {
     }).catch(() => {
       message.channel.send(`${message.author} you don't have enough permission to kick ${member.displayName}.`);
     });
-  };
+  }
 
   //greetings
    console.log(`${message.content} $[message.author.tag] `);
