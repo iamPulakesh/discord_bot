@@ -16,7 +16,9 @@ npm i dotenv
 => botToken = Your bot token.
 
 4.```npm run start``` or ```npm run dev``` to start the bot.
+
 (you have to install nodemon in order to execute ```npm run dev```).
+
 (run ```npm install -g nodemon``` to install nodemon).
 
 ## CREATE CONFIG.JSON FILE
