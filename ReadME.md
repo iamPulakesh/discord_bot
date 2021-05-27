@@ -5,17 +5,17 @@ and will do a couple of cool things.
 
 ## INSTRUCTIONS
 
-# Dependencies  
+1.Dependencies  
 ```
 npm i discord.js
 npm i dotenv
 ```
-1.create a .env file in the root directory
+2.create a .env file in the root directory
 
-2.environment variable(inside .env file)
+3.environment variable(inside .env file)
 => botToken = Your bot token.
 
-3.```npm run start``` or ```npm run dev``` to start the bot.
+4.```npm run start``` or ```npm run dev``` to start the bot.
 (you have to install nodemon in order to execute ```npm run dev```).
 (run ```npm install -g nodemon``` to install nodemon).
 
