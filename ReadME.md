@@ -6,6 +6,7 @@ and will do a couple of cool things.
 ## INSTRUCTIONS
 
 1.Dependencies  
+Make sure to install nodejs in your system before proceeding further.
 ```
 npm i discord.js
 npm i dotenv
